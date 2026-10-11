@@ -2,7 +2,7 @@
 
 # =============================================================================
 # Script Name: qemu-kvm-installer.sh
-# Author: gnu-coffee
+# Author: J. Morteza
 # Created: 2025-09-10
 # Description: Install and configure QEMU/KVM on Debian/Ubuntu
 # License: GNU General Public License v3 (GPLv3)
